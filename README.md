@@ -15,3 +15,5 @@ In this project we shall fart, besides the datasets, the following documents:
 2. Model – Transfer Learning VGG
 
 Note: environment for this project is provided as .yml file
+
+p.s: This project was undertaken as part of Udacity Deep Learning degree, to whom I am grateful for what I have learnt.
