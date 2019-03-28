@@ -21,6 +21,6 @@ In this project we shall find, besides the datasets, the following documents:
 2. Model – Transfer Learning VGG
 
 ## License
-This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/x_biamow/blob/master/License.txt) file
+This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/License.txt) file
 
 
