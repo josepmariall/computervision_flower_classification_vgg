@@ -2,7 +2,7 @@
 The goal of this project is to create an algorithm to classify 5 types of flowers. 
 
 ## Install
-I provide the [environment](https://github.com/titoniubo/x_biamow/blob/master/xebiamow.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/cnn_environment.yml) used to run this code.
 
 ## Acknowledgments
 This project is done thanks to information obtained from Udacity. 
