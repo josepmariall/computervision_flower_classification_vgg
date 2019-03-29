@@ -4,10 +4,6 @@ The goal of this project is to create an algorithm to classify 5 types of flower
 ## Install
 I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/cnn_environment.yml) used to run this code.
 
-## Acknowledgments
-This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
-
-
 ## About the project
 Dataset to be trained contains 3670 images, that shall be used for training and testing the model.
 
@@ -20,7 +16,10 @@ In this project we shall find, besides the datasets, the following documents:
 1. Data Visualization & Preparation
 2. Model – Transfer Learning VGG
 
-## License
+### Acknowledgments
+This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
+
+### License
 This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/License.txt) file
 
 
