@@ -16,6 +16,16 @@ In this project we shall find, besides the datasets, the following documents:
 1. Data Visualization & Preparation
 2. Model – Transfer Learning VGG
 
+
+### Code of ethics
+I, a Data practitioner, will promote the well-being of others and myself while striving to do no harm with data through:
+1. Professional application of analytical techniques
+2. Humility in analytic claims
+3. Anticipation of legal and regulatory scenarios
+4. Transparency in computation and documentation
+5. Fidelity to this oath beyond bottom line
+
+
 ### Acknowledgments
 This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
 
