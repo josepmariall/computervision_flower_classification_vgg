@@ -18,7 +18,7 @@ In this project we shall find, besides the datasets, the following documents:
 
 
 ### Code of ethics
-This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/Canine_classifier/blob/master/Code%20of%20ethics.txt)
+This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/Code%20of%20ethics.txt)
 
 
 ### Acknowledgments
