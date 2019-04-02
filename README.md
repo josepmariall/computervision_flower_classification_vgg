@@ -1,9 +1,6 @@
 # Flower classification using Transfer Learning
 The goal of this project is to create an algorithm to classify 5 types of flowers. 
 
-## Install
-I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/cnn_environment.yml) used to run this code.
-
 ## About the project
 Dataset to be trained contains 3670 images, that shall be used for training and testing the model.
 
@@ -16,10 +13,11 @@ In this project we shall find, besides the datasets, the following documents:
 1. Data Visualization & Preparation
 2. Model – Transfer Learning VGG
 
-
 ### Code of ethics
 This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/Code%20of%20ethics.txt)
 
+### Install
+I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/cnn_environment.yml) used to run this code.
 
 ### Acknowledgments
 This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
