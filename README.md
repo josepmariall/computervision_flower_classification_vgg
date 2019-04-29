@@ -17,7 +17,7 @@ In this project we shall find, besides the datasets, the following documents:
 This project has been undertaken complying with a code of [ethics](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/Code%20of%20ethics.txt)
 
 ### Install
-I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/cnn_environment.yml) used to run this code.
+I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/deeplearning.yml) used to run this code.
 
 ### Acknowledgments
 This project is done thanks to what I learnt at [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
