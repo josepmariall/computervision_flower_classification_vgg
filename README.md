@@ -20,7 +20,7 @@ This project has been undertaken complying with a code of [ethics](https://githu
 I provide the [environment](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/cnn_environment.yml) used to run this code.
 
 ### Acknowledgments
-This project is done thanks to information obtained from [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
+This project is done thanks to what I learnt at [Udacity](https://eu.udacity.com/course/deep-learning-nanodegree--nd101)
 
 ### License
 This project is under Copyright © 2019 Josep Maria Niubo. It is free software, and may be redistributed under the terms specified in the [LICENSE](https://github.com/titoniubo/computervision_flower_classification_vgg/blob/master/License.txt) file
